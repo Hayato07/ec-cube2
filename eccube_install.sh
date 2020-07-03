@@ -14,9 +14,9 @@
 # 使い方
 # Configurationの内容を自分の環境に併せて修正
 # PostgreSQLの場合は、DBユーザーを予め作成しておいて
-# # ./ec_cube_install.sh pgsql
+# # ./eccube_install.sh pgsql
 # MySQLはMYSQLのRoot以外のユーザーで実行する場合は、128行目をコメントアウトして
-# # ./ec_cube_install.sh mysql
+# # ./eccube_install.sh mysql
 #
 #
 # 開発コミュニティの関連スレッド
